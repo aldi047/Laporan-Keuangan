@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "138769701140",
+    "project_id": "laporan-keuangan-5e0dd",
+    "storage_bucket": "laporan-keuangan-5e0dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138769701140:android:d611b8db782c3b7e4a8a01",
+        "android_client_info": {
+          "package_name": "com.example.capstone_catatan_keuangan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvKjVoFMT-uJglWPDUl-T9cN_-QSbfPzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
